@@ -66,6 +66,30 @@ Profit Margin -	23.48%
 
 ➡️ Offline slightly outperformed Online in terms of net revenue contribution.
 
+### 📅 Monthly Net Revenue Trend (2023–2024)
+
+The net revenue per month remained mostly stable **across 2023**, with noticeable peaks in **March 2023, August 2023, and December 2023.** However, a drop is seen in **March 2024**, indicating possible seasonal fluctuations or operational challenges.
+
+Here are the clear chart to understand in a better way.
+
+![alt](assets/c_2.PNG)
+
+### 📈 Month-over-Month (MoM) Profit Growth (2023–2024)
+
+**Profit growth varied significantly across months:**
+
+- 📈 Highest growth: March 2023 **(+19.21%)**, October 2023 **(+11.72%)**
+
+- 📉 Highest decline: September 2023 **(−14.15%)**, March 2024 **(−13.46%)**
+
+![alt](assets/c_3.PNG)
+
+These fluctuations suggest the need to analyze marketing strategies and operational costs.
+
+
+
+
+
 
 
 
