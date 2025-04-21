@@ -86,6 +86,61 @@ Here are the clear chart to understand in a better way.
 
 These fluctuations suggest the need to analyze marketing strategies and operational costs.
 
+### 🏙️ City-wise Performance
+
+Top performing cities based on Net Revenue and Total Profit %:
+
+![alt](assets/c_4.PNG)
+
+#### ➡️ Raipur shows both high revenue and profitability, suggesting efficient operations and strong customer base.
+
+### 🛍️ Product-wise Net Revenue
+
+**Top products based on revenue:**
+
+
+Lamp -	2,396.22M
+
+Jeans -	2,363.46M
+
+Face Cream  -	2,359.38M
+
+Here are the clear visualization to better understand.
+
+![alt](assets/c_5.PNG)
+
+#### ➡️ Lamp is the highest revenue-generating product, possibly due to higher demand or price point.
+
+
+
+### Pivot Report 
+![alt](pivot_report/pivot_ss.PNG)
+
+### Final Dashboard
+
+![alt](final_dashboard/dashboard.PNG)
+
+## 🔍 Final Insights
+
+- 📊 Balanced Channel Performance: **Both Online and Offline** channels contributed almost equally to revenue, offering flexibility in sales strategy.
+
+- 🚀 Top Revenue Months: **March and August 202**3 were strong revenue months; sales campaigns could be studied and replicated.
+
+- 🔻 Profit Volatility: Notable dips in **September 2023 and March 2024** indicate cost inefficiencies or reduced sales effectiveness during these periods.
+
+- 🌆 **Raipur and Pune** stand out in both net revenue and profit % – good models for expansion or strategy replication.
+
+- 🧴 High-performing products like **Lamp, Jeans, and Face Cream** can be prioritized in promotions or inventory planning.
+
+- 💸 Profit Margin of **23.48%** indicates healthy profitability but leaves room for optimization.
+
+
+
+
+
+
+
+
 
 
 
